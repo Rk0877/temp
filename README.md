@@ -4,8 +4,7 @@
 
 Temperature Wizard is a web-based temperature calculator application built using HTML, CSS, and JavaScript. It allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin.
 
-# Live Demo
-You Can Click Here To Go To The Project Website Directly [Temprature Wizard](https://temperaturewizard.vercel.app/)
+
 
 ## Features
 
@@ -20,18 +19,6 @@ You Can Click Here To Go To The Project Website Directly [Temprature Wizard](htt
 - CSS
 - JavaScript
 
-## Screenshots
-
-![image](https://github.com/Alok-2002/Temperature_Wizard/assets/93814546/05d5f3bf-3984-49d4-890b-9deb85920170)
-
-
-## Getting Started
-
-To get started with Temperature Wizard, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/alok-2002/Temperature_Wizard.git`
-2. Navigate to the project directory: `cd Temperature_Wizard`
-3. Open the `index.html` file in your web browser.
 
 ## Usage
 
